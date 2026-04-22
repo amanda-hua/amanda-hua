@@ -1,16 +1,14 @@
-## Hi there 👋
+# Amanda Hua
 
-<!--
-**amanda-hua/amanda-hua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CEO of [Azenticbot](https://azenticbot.ai). Building [Agent Atlas](https://github.com/amanda-hua/agent-atlas) — a framework for operational agents. ACH is the first.
 
-Here are some ideas to get you started:
+25+ years at PayPal, Ripple, Apple, Rivian, and others, across payments, eCommerce, blockchain, real estate, and mobility.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Writing:
+- [From Code to Choreography](https://fromcodetochoreography.substack.com/) — systems design, ballet, and cross-domain thinking
+- [Faithful to the Bay](https://faithfultothebay.substack.com/) — 49ers, applied analysis, AI in sports
+
+Public work is intentionally limited — most of what I build lives in private repos.
+
+📍 San Francisco Bay Area  
+🔗 [azenticbot.ai](https://azenticbot.ai) · [LinkedIn](https://linkedin.com/in/amanda-hua-50320b2) · [X](https://x.com/amandahua)

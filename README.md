@@ -1,6 +1,6 @@
 # Amanda Hua
 
-Founder & CEO of [Azenticbot](https://azenticbot.ai). Building [Agent Atlas](https://github.com/amanda-hua/agent-atlas) — a framework for operational agents. ACH is the first.
+Production AI systems leader focused on decision infrastructure, operational agents, and mission-critical distributed systems. Founder of [Azenticbot](https://azenticbot.ai), building [Agent Atlas](https://github.com/amanda-hua/agent-atlas) — a framework for operational agents, starting with ACH.
 
 25+ years at PayPal, Ripple, Apple, Rivian, and others, across payments, eCommerce, blockchain, real estate, and mobility.
 

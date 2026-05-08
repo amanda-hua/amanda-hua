@@ -11,5 +11,6 @@ Writing:
 - [Faithful to the Bay](https://faithfultothebay.substack.com/) — 49ers, applied analysis, AI in sports
 
 
+
 📍 San Francisco Bay Area  
 🔗 [azenticbot.ai](https://azenticbot.ai) · [LinkedIn](https://linkedin.com/in/amanda-hua-50320b2) · [X](https://x.com/amandahua)

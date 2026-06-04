@@ -6,6 +6,8 @@ Agent Atlas focuses on the hard part of production AI: making operational decisi
 
 I have spent 25+ years building distributed systems across payments, eCommerce, blockchain, identity, privacy, mobility, real estate technology, and operational platforms — with leadership and architecture experience across PayPal, Apple, Ripple, Rivian, and Anywhere Real Estate.
 
+Public work is intentionally limited. Most Agent Atlas implementation work lives in private repositories.
+
 ## What I’m Building
 
 **Agent Atlas** is a governed decision layer for production AI agents.
@@ -32,13 +34,9 @@ I have built and led production systems across multiple generations of technolog
 - **Rivian** — digital commerce, identity, privacy, GraphQL, micro frontends, and connected vehicle platform architecture
 - **Anywhere Real Estate / Compass** — AI, contact center modernization, event-driven workflow platforms, AWS Connect, Amazon Q, Kafka, microservices, and operational systems
 
-Across these roles, the recurring pattern has been the same:
-
 Reliable systems require more than intelligence. They require architecture, controls, observability, resilience, and clear ownership of decisions.
 
 ## Selected Public Work
-
-Most Agent Atlas implementation work lives in private repositories. Public work here is intentionally limited and focused on selected architecture notes, product framing, and technical writing.
 
 ### Agent Atlas
 
@@ -54,22 +52,6 @@ Most Agent Atlas implementation work lives in private repositories. Public work 
 
 - [From Code to Choreography](https://fromcodetochoreography.substack.com)
 - [Faithful to the Bay](https://faithfultothebay.substack.com)
-
-## Working Thesis
-
-The next generation of enterprise AI will not be defined only by better models.
-
-It will be defined by better operating systems around those models:
-
-- How decisions are made
-- How uncertainty is handled
-- How actions are reviewed
-- How outcomes are learned from
-- How policies evolve
-- How humans stay accountable
-- How systems improve without losing control
-
-That is the layer I am building with Agent Atlas.
 
 ## Connect
 

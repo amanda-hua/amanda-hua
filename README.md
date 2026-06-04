@@ -16,8 +16,10 @@ The first vertical is payment operations, starting with ACH workflows where fail
 
 The core idea:
 
-> Retrieval can inform a system.  
-> Judgment must be governed.  
+> Retrieval can inform a system.
+>
+> Judgment must be governed.
+>
 > Actions need controls.
 
 Agent Atlas helps operational agents move from generic generation to structured decisions through domain workflow context, policy-as-data, confidence checks, human approval gates, audit trails, simulation, outcome tracking, and feedback loops.

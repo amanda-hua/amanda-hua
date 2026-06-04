@@ -34,7 +34,7 @@ I have built and led production systems across multiple generations of technolog
 - **Apple** — Apple News advertising platform, privacy, GDPR, and distributed services
 - **Ripple** — RippleNet replatforming, blockchain payments infrastructure, Kafka-based distributed systems, identity, and security architecture
 - **Rivian** — digital commerce, identity, privacy, GraphQL, micro frontends, and connected vehicle platform architecture
-- **Anywhere Real Estate / Compass** — AI, contact center modernization, event-driven workflow platforms, AWS Connect, Amazon Q, Kafka, microservices, and operational systems
+- **Anywhere Real Estate** — AI, contact center modernization, event-driven workflow platforms, AWS Connect, Amazon Q, Kafka, microservices, and operational systems
 
 Reliable systems require more than intelligence. They require architecture, controls, observability, resilience, and clear ownership of decisions.
 

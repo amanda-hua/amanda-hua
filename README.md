@@ -12,7 +12,7 @@ Public work is intentionally limited. Most Agent Atlas implementation work lives
 
 **Agent Atlas** is a governed decision layer for production AI agents.
 
-The first vertical is payment operations, starting with ACH workflows where failed payments, returns, disputes, retries, account limits, reconciliation, policy exceptions, and human approvals all create operational risk.
+The first verticals are payment operations and agentic commerce, starting with ACH workflows where failed payments, returns, disputes, retries, account limits, reconciliation, policy exceptions, and human approvals all create operational risk, and expanding into consent-governed autonomous purchasing decisions and operator oversight for agent-mediated commerce.
 
 The core idea:
 
@@ -42,7 +42,7 @@ Reliable systems require more than intelligence. They require architecture, cont
 
 ### Agent Atlas
 
-- [Agent Atlas public overview](https://github.com/amanda-hua/agent-atlas)
+- [Agent Atlas public overview](https://github.com/amanda-hua/agent-atlas) - ACH operations and Agentic Commerce
 - [Azenticbot](https://azenticbot.ai)
 
 ### Technical Writing

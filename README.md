@@ -1,60 +1,56 @@
 # Amanda Hua
 
-Founder & CEO of [Azenticbot](https://azenticbot.ai), building **Agent Atlas** — enterprise-grade vertical AI agents for mission-critical workflows.
+Founder of [Apova](https://apova.ai), building **Agent Atlas** — governed execution for production AI.
 
-Agent Atlas focuses on the hard part of production AI: making operational decisions safe, explainable, auditable, and improvable over time.
+Agent Atlas is the governance layer between AI intelligence and enterprise execution.
 
-I have spent 25+ years building distributed systems across payments, eCommerce, blockchain, identity, privacy, mobility, real estate technology, and operational platforms — with leadership and architecture experience across PayPal, Apple, Ripple, Rivian, and Anywhere Real Estate.
+For more than twenty years, I've built mission-critical platforms where trust, reliability, and governance matter — across PayPal, Apple, Ripple, Rivian, and Anywhere Real Estate.
 
-Public work is intentionally limited. Most Agent Atlas implementation work lives in private repositories.
+Across payments, privacy, settlement, commerce, and enterprise AI, I kept seeing the same pattern:
 
-## What I’m Building
+**The intelligence was rarely the bottleneck.  
+The hard part was governing execution.**
 
-**Agent Atlas** is a governed decision layer for production AI agents.
+That's why I started Apova.
 
-The first verticals are payment operations and agentic commerce, starting with ACH workflows where failed payments, returns, disputes, retries, account limits, reconciliation, policy exceptions, and human approvals all create operational risk, and expanding into consent-governed autonomous purchasing decisions and operator oversight for agent-mediated commerce.
+> Retrieval can inform a system. Judgment must be governed. Actions need controls.
 
-The core idea:
+Agent Atlas provides governed execution for production AI. We started with payment operations, where every decision directly affects money movement, and are extending the same governed execution architecture across other mission-critical workflows.
 
-> Retrieval can inform a system.
->
-> Judgment must be governed.
->
-> Actions need controls.
+---
 
-Agent Atlas helps operational agents move from generic generation to structured decisions through domain workflow context, policy-as-data, confidence checks, human approval gates, audit trails, simulation, outcome tracking, and feedback loops.
+## Current Work
 
-The goal is to help teams scale operational judgment safely.
+- **Agent Atlas** — https://github.com/amanda-hua/agent-atlas
+- **Apova** — https://apova.ai
 
-## Background
+---
 
-I have built and led production systems across multiple generations of technology shifts:
+## Recognition
 
-- **PayPal** — mobile checkout, device intelligence, and payment experiences
-- **Apple** — Apple News advertising platform, privacy, GDPR, and distributed services
-- **Ripple** — RippleNet replatforming, blockchain payments infrastructure, Kafka-based distributed systems, identity, and security architecture
-- **Rivian** — digital commerce, identity, privacy, GraphQL, micro frontends, and connected vehicle platform architecture
-- **Anywhere Real Estate** — AI, contact center modernization, event-driven workflow platforms, AWS Connect, Amazon Q, Kafka, microservices, and operational systems
+- 🏆 **2026 API Award** — Best Payment API
+- 🏆 **2026 CloudX Award** — Cloud Application Platforms
 
-Reliable systems require more than intelligence. They require architecture, controls, observability, resilience, and clear ownership of decisions.
+---
 
-## Selected Public Work
+## Writing
 
-### Agent Atlas
+- ✍️ **From Code to Choreography**  
+  https://fromcodetochoreography.substack.com
 
-- [Agent Atlas public overview](https://github.com/amanda-hua/agent-atlas) - ACH operations and Agentic Commerce
-- [Azenticbot](https://azenticbot.ai)
+- 🏗️ **Designing Rivian's Digital Commerce Platform**  
+  https://medium.com/@amandahua/design-of-event-driven-micro-service-and-micro-frontend-architecture-51982a328be3
 
-### Technical Writing
+- ⚽ **Faithful to the Bay**  
+  https://faithfultothebay.substack.com
 
-- [Design of Event Driven Micro Service and Micro Frontend Architecture](https://medium.com/@amandahua/design-of-event-driven-micro-service-and-micro-frontend-architecture-51982a328be3)
-- [Micro Frontend Architecture: Shared UI Components Library (SCL)](https://medium.com/@amandahua/micro-frontend-architecture-shared-ui-components-library-scl-a98a5a6b0a58)
-
-### Writing
-
-- [From Code to Choreography](https://fromcodetochoreography.substack.com)
-- [Faithful to the Bay](https://faithfultothebay.substack.com)
+---
 
 ## Connect
 
-[azenticbot.ai](https://azenticbot.ai) · [LinkedIn](https://www.linkedin.com/in/amanda-hua/) · [X](https://x.com/azenticbot)
+- LinkedIn: https://www.linkedin.com/in/amanda-hua/
+- X: https://x.com/getapova
+
+---
+
+> *Mastery comes from continuously learning, connecting ideas across disciplines, and playing the long game.*

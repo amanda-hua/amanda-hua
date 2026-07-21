@@ -28,8 +28,11 @@ Agent Atlas provides governed execution for production AI. We started with payme
 
 ## Recognition
 
-- 🏆 **2026 API Award** — Best Payment API
-- 🏆 **2026 CloudX Award** — Cloud Application Platforms
+🏆 **[2026 API Award](https://apiworld.co/awards/)** — Best Payment API
+
+🏆 **[2026 CloudX Award](https://cloudxconf.com/awards/)** — Cloud Application Platforms
+
+Agent Atlas was recognized by DevNetwork's independent advisory boards for innovation in API technology and cloud application platforms.
 
 ---
 
